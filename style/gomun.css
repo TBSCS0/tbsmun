@@ -28,20 +28,18 @@
     color: #ffffff;
     border: none;
     align-items: center;
-    margin-left: 48px;
-    padding-top: 48px;
-    padding-bottom: 48px;
+    margin: 10px 10px 10px 10px;
+    padding: 40px 20px 40px 20px;
 }
 
 .btn-tbsmun{
-    background: #820D26;
+    background: #ffffff;
+    color: #000000;
     border: none;
-    padding: 20px 20px 20px 20px;
-    margin: 10px 10px 10px 10px;
 }
 
 .btn-tbsmun:hover, .btn-tbsmun:active{
-    background: #820D26;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
     opacity: 0.5;
 }
