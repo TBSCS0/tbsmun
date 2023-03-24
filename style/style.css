@@ -29,7 +29,7 @@
     margin: 10px 10px 10px 10px;
 }
 
-.btn-tbsmun:hover{
+.btn-tbsmun:hover, .btn-tbsmun:active{
     background: #820D26;
     color: #ffffff;
     opacity: 0.5;
