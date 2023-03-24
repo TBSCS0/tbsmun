@@ -1,0 +1,47 @@
+/*
+    Primary: #10345C
+    Secondary: #820D26
+    background: #ffffff
+    Font color: #000000
+    Font type: Roboto
+*/
+
+.gomun{
+    background: #ffffff;
+}
+
+.gomun-top{
+    background: #10345C;
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+}
+
+.about-gomun{
+    color: #ffffff;
+    background: #820D26;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.card{
+    background: #820D26;
+    color: #ffffff;
+    border: none;
+    align-items: center;
+    margin-left: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.btn-tbsmun{
+    background: #820D26;
+    border: none;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btn-tbsmun:hover, .btn-tbsmun:active{
+    background: #820D26;
+    color: #ffffff;
+    opacity: 0.5;
+}
