@@ -7,13 +7,13 @@
 */
 
 .home{
-    background: #10345C;
+    background: #ffffff;
 }
 
 .home-headline{
     text-align: center;
     font-size: 120px;
-    color: #ffffff;
+    color: #10345C;
 }
 
 .buttons-area{
