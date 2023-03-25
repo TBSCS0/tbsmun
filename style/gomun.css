@@ -17,15 +17,15 @@
 }
 
 .about-gomun{
-    color: #ffffff;
-    background: #820D26;
+    color: #000000;
+    background: #ffffff;
     margin-top: 100px;
     margin-bottom: 100px;
 }
 
 .card{
-    background: #820D26;
-    color: #ffffff;
+    background: #ffffff;
+    color: #000000;
     border: none;
     align-items: center;
     margin: 10px 10px 10px 10px;
@@ -33,13 +33,14 @@
 }
 
 .btn-tbsmun{
-    background: #ffffff;
-    color: #000000;
+    background: #820D26;
+    color: #ffffff;
     border: none;
 }
 
 .btn-tbsmun:hover, .btn-tbsmun:active{
-    background: #ffffff;
-    color: #000000;
+    background: #820D26;
+    color: #ffffff;
+    border: none;
     opacity: 0.5;
 }

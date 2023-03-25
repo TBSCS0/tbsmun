@@ -6,8 +6,9 @@
     Font type: Roboto
 */
 
-.tbsrjmun{
-    background: #ffffff;
+.about-tbsrjmun{
+    background: #820D26;
+    color: #ffffff;
 }
 
 .navbar, .navbar-expand-lg{
@@ -28,14 +29,24 @@
     text-decoration: none;
 }
 
-.hamburger{
+.hamburger, .navbar-icon{
     font-size: 30px;
     font-weight: bold;
     color: #ffffff;
+    border: none;
+}
+
+.hamburger:hover, .navbar-icon:hover{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    border: none;
+    opacity: 0.5;
 }
 
 .btn-tbsmun{
     background: #820D26;
+    color: #ffffff;
     border: none;
     padding: 20px 20px 20px 20px;
     margin: 10px 10px 10px 10px;
@@ -44,5 +55,21 @@
 .btn-tbsmun:hover, .btn-tbsmun:active{
     background: #820D26;
     color: #ffffff;
+    border: none;
+    opacity: 0.5;
+}
+
+.btn-tbsmun-alt{
+    background: #10345C;
+    color: #ffffff;
+    border: none;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btn-tbsmun-alt:hover, .btn-tbsmun-alt:active{
+    background: #10345C;
+    color: #ffffff;
+    border: none;
     opacity: 0.5;
 }
