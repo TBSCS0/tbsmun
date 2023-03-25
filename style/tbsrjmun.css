@@ -6,9 +6,16 @@
     Font type: Roboto
 */
 
-.about-tbsrjmun{
+.card-tbsrjmun-red{
     background: #820D26;
     color: #ffffff;
+    padding: 20px 50px 20px 20px;
+}
+
+.card-tbsrjmun-white{
+    background: #ffffff;
+    color: #000000;
+    padding: 20px 50px 20px 20px;
 }
 
 .navbar, .navbar-expand-lg{
@@ -72,4 +79,9 @@
     color: #ffffff;
     border: none;
     opacity: 0.5;
+}
+
+.card{
+    border: none;
+
 }
