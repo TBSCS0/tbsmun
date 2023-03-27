@@ -6,6 +6,24 @@
     Font type: Roboto
 */
 
+.resources-tbsrjmun{
+    background: #820D26;
+    color: #ffffff;
+    padding: 20px 50px 20px 20px;
+}
+
+.registration-tbsrjmun{
+    background: #ffffff;
+    color: #000000;
+    padding: 20px 50px 20px 20px;
+}
+
+.team-tbsrjmun{
+    background: #820D26;
+    color: #ffffff;
+    padding: 20px 50px 20px 20px;
+}
+
 .cards-tbsrjmun{
     background: #820D26;
     color: #ffffff;
@@ -77,5 +95,4 @@
 
 .card{
     border: none;
-
 }
