@@ -93,6 +93,12 @@
     opacity: 0.5;
 }
 
+.returnBtn{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+
 .card{
     border: none;
 }
