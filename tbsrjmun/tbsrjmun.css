@@ -1,0 +1,143 @@
+/*
+    Primary: #10345C
+    Secondary: #820D26
+    background: #ffffff
+    Font color: #000000
+    Font type: Roboto
+*/
+
+.carousel-headline{
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+
+.carousel-headline .carousel-img-top {
+    z-index: 0;
+}
+
+.carousel-headline .carousel-text {
+    text-align: center;
+    width: 100%;
+    margin: 20% 0;
+    position: absolute;
+    z-index: 1;
+    color: #ffffff;
+}
+
+.carousel-h1{
+    font-size: 50px;
+}
+
+.carousel-h5{
+    font-size: 25px;
+}
+
+.tbsmun-area{
+    background: #820D26;
+    color: #ffffff;
+    padding: 20px 50px 20px 20px;
+}
+
+.tbsmun-area-alt {
+    background: #ffffff;
+    color: #000000;
+    padding: 20px 50px 20px 20px;
+}
+
+.card{
+    border: none;
+}
+
+.navbar, .navbar-expand-lg{
+    background: #10345C;
+}
+
+.navbar-brand, .nav-link, .nav-item{
+    color: #ffffff;
+}
+
+.nav-link:focus, .nav-link:hover{
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+.dropdown-item{
+    color: #000000;
+}
+
+.dropdown-item:focus, .dropdown-item:hover{
+    color: #000000;
+    opacity: 0.5;
+    background: #ffffff;
+}
+
+.navbar-toggler{
+    background: #10345C;
+    text-decoration: none;
+}
+
+.hamburger, .navbar-icon{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    border: none;
+}
+
+.hamburger:hover, .navbar-icon:hover{
+    font-size: 30px;
+    font-weight: bold;
+    color: #ffffff;
+    border: none;
+    opacity: 0.5;
+}
+
+.btn-tbsmun{
+    background: #820D26;
+    color: #ffffff;
+    border: none;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btn-tbsmun:hover, .btn-tbsmun:active{
+    background: #820D26;
+    color: #ffffff;
+    border: none;
+    opacity: 0.5;
+}
+
+.btn-tbsmun-alt{
+    background: #10345C;
+    color: #ffffff;
+    border: none;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btn-tbsmun-alt:hover, .btn-tbsmun-alt:active{
+    background: #10345C;
+    color: #ffffff;
+    border: none;
+    opacity: 0.5;
+}
+
+.btn-back{
+    background: #ffffff;
+    color: #10345C;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 40px;
+    border-radius: 90%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+}
+
+.btn-social{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+
+
