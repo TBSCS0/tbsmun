@@ -35,13 +35,13 @@
 .tbsmun-area{
     background: #820D26;
     color: #ffffff;
-    padding: 20px 50px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 
 .tbsmun-area-alt {
     background: #ffffff;
     color: #000000;
-    padding: 20px 50px 20px 20px;
+    padding: 20px 20px 20px 20px;
 }
 
 .card{
@@ -139,5 +139,14 @@
     font-size: 25px;
 }
 
+.list-group, .list-group-item, .list-group-flush{
+    background: transparent;
+}
 
+.schedule-heading{
+    text-align: center;
+}
 
+.map-area{
+    text-align: center;
+}
